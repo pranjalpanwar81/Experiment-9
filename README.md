@@ -1,7 +1,7 @@
 # To study and implement C++Pointer basics
-# AIM --> To study and implement C++ pointer basics.
+AIM --> To study and implement C++ pointer basics.
 
-# THEORY
+THEORY
 A pointer in C++ is a variable that holds the memory address of another variable. A pointer saves the address of a value in memory rather than the actual value, as opposed to regular variables which store the value directly. Key characteristics of pointers are as follows:
 
 Stores Memory Address: Pointers do not hold data themselves but point to the location where data is stored. Used for Memory Management: They allow for efficient memory management and enable dynamic memory allocation. Dereferencing: You can access or modify the value at the address stored in the pointer using the dereference operator (*).
