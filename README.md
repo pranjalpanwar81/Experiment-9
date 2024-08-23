@@ -13,6 +13,7 @@ The address of the variable that we are working with is assigned to the pointer 
 
 Code
 (A)
+```
 // Program to illustrate pointers. 
 
 #include <bits/stdc++.h> 
@@ -38,9 +39,9 @@ int main()
     geeks();
     return 0;
 } 
-
+```
 (B)
-
+```
 // Program to create one-dimensional array of pointers. 
 
 #include <iostream> 
@@ -66,7 +67,7 @@ int main()
 
     return 0; 
 }
-
+```
 Output:-
 
 (A)
