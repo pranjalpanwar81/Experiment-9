@@ -1,5 +1,5 @@
-//SHIVENDRA DWIVEDI
-//23070123122
+//Pranjal Panwar
+//23070123164
 //Program to illustrate pointers
 #include <iostream>
 using namespace std;
